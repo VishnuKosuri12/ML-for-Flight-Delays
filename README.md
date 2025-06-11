@@ -1,2 +1,2 @@
 # ML-for-Flight-Delays
-ML model which can predict flight delays
+ML model which can predict flight delays with data from somewhere
